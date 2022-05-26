@@ -1,3 +1,3 @@
-module github.com/rwxrob/klogin
+module github.com/rwxrob/kube
 
 go 1.18
